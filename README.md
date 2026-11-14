@@ -1,4 +1,4 @@
-Hi, I'm Mahyar! 👋
+Hi, I'm MahyaR! 👋
 
 I'm passionate about technology, servers, and building things from scratch. I've been working on different projects involving **Node.js, networking, streaming infrastructure, and server management**.
 
