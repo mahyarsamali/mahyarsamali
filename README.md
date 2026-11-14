@@ -16,6 +16,10 @@ I'm always learning, building, and exploring new technologies. My goal is to cre
 
 💻 Feel free to explore my repositories and follow my journey!
 
+---
+
+> **P.S. Men only receive flowers once in their lifetime—and that's when they're no longer here. 🌹**
+
 <a href="eliteserver.ir">
     <img src="https://komarev.com/ghpvc/?username=mahyarsamali&style=for-the-badge">
 </a>
