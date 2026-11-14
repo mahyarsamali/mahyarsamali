@@ -1,17 +1,30 @@
-<p align="center"> 
-  My Profile Visitor Counter<br>
-  <img src="https://profile-counter.glitch.me/mahyarsamali/count.svg" />
-</p>
+### Hey folks! 👋
 
-<br>
-<hr>
+<!--
+**antonkomarev/antonkomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-    <img src="https://discord.c99.nl/widget/theme-1/998143234758946828.png" alt="Discord Widget">
-</p>
+Here are some ideas to get you started:
 
-<p align="center">
-    <a href="http://ir-mp.ir/">
-      <img src="https://s33.picofile.com/file/8483551892/New_Pr2oject_7.png" alt="iranmp" width="256" height="58" />
-    </a>
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+Hi, I'm Mahyar! 👋
+
+I'm passionate about technology, servers, and building things from scratch. I've been working on different projects involving **Node.js, networking, streaming infrastructure, and server management**.
+
+🚀 I enjoy turning ideas into real projects—from building streaming services and web applications to experimenting with networks, Linux, and server infrastructure.
+
+I'm always learning, building, and exploring new technologies. My goal is to create reliable and innovative projects while growing my knowledge in the world of software and infrastructure.
+
+💻 Feel free to explore my repositories and follow my journey!
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mahyarsamali&style=for-the-badge">
+</a>
